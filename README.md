@@ -1,1 +1,1 @@
-# Fullstack Developer | @GeneralAssembly Studen
+# Fullstack Developer | @GeneralAssembly Student
