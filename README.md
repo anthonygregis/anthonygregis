@@ -1,3 +1,4 @@
 # Fullstack Developer | @GeneralAssembly Student
 
-[![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=anthonygregis)](https://github.com/anthonygregis/)
+[![](https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
