@@ -1,9 +1,11 @@
 # Fullstack Developer | Branif Systems Engineer
 
 <p align="left">
-  <img width="550" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+  <img width="550" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/0-profile-details.svg" />
 </p>
-
+<p align="right">
+  <img src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+</p>
 About Me:
 <p align="left">
 I am a full stack engineer that is propelled by solving complex situations, diving deep into my work until the solution is found. I have a passion for taking on complex ideas / concepts. My previous experience in self learning coding is that I learned early on the right mindset for tackling issues as they arise. Not allowing them to overwhelm me but to instead accept it as a personal challenge of growth.
