@@ -25,6 +25,7 @@ I am a full stack engineer that is propelled by solving complex situations, divi
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Vercel&color=000000&style=for-the-badge&logo=vercel&logoColor=ffffff" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Javascript&color=f0db4f&style=for-the-badge&logo=javascript&logoColor=f0db4f" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GraphQL&color=e535ab&style=for-the-badge&logo=graphql&logoColor=e535ab" />
       <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=e34c26&style=for-the-badge&logo=html5" />
