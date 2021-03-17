@@ -1,6 +1,5 @@
 # Fullstack Developer | Branif Systems Engineer
 
-Github Stats:
 <p align="left">
   <img width="550" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
 </p>
