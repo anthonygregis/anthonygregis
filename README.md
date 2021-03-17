@@ -1,8 +1,8 @@
 # Fullstack Developer | Branif Systems Engineer
 
-<img align="right" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+<img width="30%" align="right" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/1-repos-per-language.svg" />
 <p align="left">
-<img src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="62%" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/0-profile-details.svg" />
 </p>
 <br/>
 About Me:
