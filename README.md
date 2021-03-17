@@ -16,40 +16,40 @@ I am a full stack engineer that is propelled by solving complex situations, divi
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: </p>
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=GraphQL&logoColor=E10098" />
-  <img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Javascript&color=f0db4f&style=for-the-badge&logo=javascript&logoColor=f0db4f" />
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GraphQL&color=e535ab&style=for-the-badge&logo=graphql&logoColor=e535ab" />
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=e34c26&style=for-the-badge&logo=html5&logoColor=e34c26" />
+  <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS3&color=2965f1&style=for-the-badge&logo=css3&logoColor=2965f1" />
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍: </p>
 <p>
-  <img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Styled%20Components-white?style=flat-square&logo=styled-components&logoColor=DB7093" />
-  <img src="https://img.shields.io/badge/-Material%20UI-white?style=flat-square&logo=material-ui&logoColor=0081CB" />
+  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
+  <img src="" />
+  <img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=311C87" />
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
 <p>
-  <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Express-white?style=flat-square&logo=Express&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" />
-  <img src="https://img.shields.io/badge/-Apollo%20GraphQL-white?style=flat-square&logo=Apollo%20GraphQL&logoColor=311C87" />
+  <img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=Express&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=336791" />
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
 <p>
-  <img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-NPM-white?style=flat-square&logo=NPM" />
-  <img src="https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/-CodeceptJS-white?style=flat-square&logo=codeceptJS&logoColor=F6E05E" />
-  <img src="https://img.shields.io/badge/-Puppeteer-white?style=flat-square&logo=puppeteer" />
-  <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=C21325" />
-  <img src="https://img.shields.io/badge/-Jira-white?style=flat-square&logo=Jira%20Software&logoColor=0052CC" />
+  <img src="https://img.shields.io/badge/white?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-NPM-white?style=for-the-badge&logo=NPM" />
+  <img src="https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/-CodeceptJS-white?style=for-the-badge&logo=codeceptJS&logoColor=F6E05E" />
+  <img src="https://img.shields.io/badge/-Puppeteer-white?style=for-the-badge&logo=puppeteer" />
+  <img src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/-Jira-white?style=for-the-badge&logo=Jira%20Software&logoColor=0052CC" />
 </p>
 </h5>
 
