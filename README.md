@@ -1,11 +1,11 @@
 # Fullstack Developer | Branif Systems Engineer
 
-𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:
+Github Stats:
 <p align="left">
   <img width="550" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
 </p>
 
-𝙰𝚋𝚘𝚞𝚝 Me:
+About Me:
 <p align="left">
 I am a full stack engineer that is propelled by solving complex situations, diving deep into my work until the solution is found. I have a passion for taking on complex ideas / concepts. My previous experience in self learning coding is that I learned early on the right mindset for tackling issues as they arise. Not allowing them to overwhelm me but to instead accept it as a personal challenge of growth.
 </p>
@@ -14,7 +14,7 @@ I am a full stack engineer that is propelled by solving complex situations, divi
   <a href="mailto:anthony.gregis@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" align="center" /></a>
 </p>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-<p>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: </p>
+<p>Languages:</p>
 <p>
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Javascript&color=f0db4f&style=for-the-badge&logo=javascript&logoColor=f0db4f" />
   <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GraphQL&color=e535ab&style=for-the-badge&logo=graphql&logoColor=e535ab" />
@@ -23,7 +23,7 @@ I am a full stack engineer that is propelled by solving complex situations, divi
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-<p>𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍: </p>
+<p>Frontend: </p>
 <p>
   <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
@@ -32,7 +32,7 @@ I am a full stack engineer that is propelled by solving complex situations, divi
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-<p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
+<p>Backend: </p>
 <p>
   <img src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=Express&logoColor=000000" />
@@ -41,7 +41,7 @@ I am a full stack engineer that is propelled by solving complex situations, divi
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-<p>𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚃𝚘𝚘𝚕𝚜: </p>
+<p>Developer Tools: </p>
 <p>
   <img src="https://img.shields.io/badge/white?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/-NPM-white?style=for-the-badge&logo=NPM" />
