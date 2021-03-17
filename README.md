@@ -21,13 +21,13 @@ I am a full stack engineer that is propelled by solving complex situations, divi
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=e34c26&style=for-the-badge&logo=html5&logoColor=e34c26" />
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS3&color=2965f1&style=for-the-badge&logo=css3&logoColor=2965f1" />
   </p>
-</h5>
+</p>
 <p align="right">
   <p>Developer Tools: </p>
   <p>
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Javascript&color=f0db4f&style=for-the-badge&logo=javascript&logoColor=f0db4f" />
   </p>
-</h5>
+</p>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>Frontend: </p>
 <p>
