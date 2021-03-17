@@ -13,13 +13,13 @@ I am a full stack engineer that is propelled by solving complex situations, divi
   <a href="https://www.linkedin.com/in/anthonygregis/" target="_blank"><img src="https://img.shields.io/badge/-0072b1?style=plastic&logo=Linkedin&logoColor=white" align="center" /></a>
   <a href="mailto:anthony.gregis@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" align="center" /></a>
 </p>
-<p align="left">
+<p align="left" style="inline-block">
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Javascript&color=f0db4f&style=for-the-badge&logo=javascript&logoColor=f0db4f" />
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GraphQL&color=e535ab&style=for-the-badge&logo=graphql&logoColor=e535ab" />
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=HTML5&color=e34c26&style=for-the-badge&logo=html5&logoColor=e34c26" />
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=CSS3&color=2965f1&style=for-the-badge&logo=css3&logoColor=2965f1" />
 </p>
-<p align="right">
+<p align="right" style="inline-block">
     <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Javascript&color=f0db4f&style=for-the-badge&logo=javascript&logoColor=f0db4f" />
 </p>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
