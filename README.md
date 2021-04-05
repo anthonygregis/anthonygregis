@@ -2,7 +2,7 @@
 
 <img width="30%" align="right" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/1-repos-per-language.svg" />
 <p align="left">
-  <img width="62%" src="https://raw.githubusercontent.com/anthonygregis/profile-card/master/profile-summary-card-output/github/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/anthonygregis/gitstats/1a5aa82e0ec19b1174b9a1e5bd7195047352d497/generated/overview.svg" />
 </p>
 <br/>
 About Me:
