@@ -1,21 +1,9 @@
 # Fullstack Engineer
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anthonygregis/gitstats/1a5aa82e0ec19b1174b9a1e5bd7195047352d497/generated/overview.svg" />
-  <img src="https://raw.githubusercontent.com/anthonygregis/gitstats/1a5aa82e0ec19b1174b9a1e5bd7195047352d497/generated/languages.svg" />
-</p>
 <br/>
 About Me:
 <p align="left">
 I am a full stack engineer that is propelled by solving complex situations, diving deep into my work until the solution is found. I have a passion for taking on complex ideas / concepts. My previous experience in self learning coding is that I learned early on the right mindset for tackling issues as they arise. Not allowing them to overwhelm me but to instead accept it as a personal challenge of growth.
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anthonygregis/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=0A66C2&message=Connect&color=0A66C2&style=flat-square&logo=linkedin" align="center" />
-  </a>
-  <a href="mailto:anthony.gregis@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=3693F3&message=Lets%20Chat&color=3693F3&style=flat-square&logo=icloud&logoColor=white" align="center" />
-  </a>
 </p>
 
 <table style="width:100%;">
